@@ -1,0 +1,129 @@
+115
+BeerSheeba,Rafah,52.3
+Rafah,Khan Yunis,11.7
+Gaza,Khan Yunis,24.3
+Almajdal,Gaza,21.2
+Asdood,Almajdal,21
+Hebron,BeerSheeba,42.7
+Hebron,Rafah,85.3
+Hebron,Khan Yunis,78.2
+Hebron,Gaza,60.1
+Hebron,Almajdal,52
+Haifa,Nazereth,31.20
+Ako,Safad,38.67
+Haifa,Ako,17.70
+Al-Khadera,Haifa,49.92
+Tabria,Nazereth,23.92
+Tabria,Bisan,40
+Janin,Nazereth,147
+Bisan,Nazereth,37.4
+Janin,Bisan,143,
+Tulkarm,Janin,67.5,
+Om Khalid,Qalqilya,18.37,
+Om Khalid,Tulkarm,15.82,
+Qalqilya,Tulkarm,84.9,
+Om Khalid,Al-Khadera,19.9,
+Om Khalid,Tal Alrabeea,31,
+Nablus,Tulkarm,54.9,
+Nablus,Qalqilya,34,
+Tal Alrabeea,Yafa,67.17,
+Lydda,Tal Alrabeea,54.7,
+Lydda,Yafa,23.6,
+Ramallah,Qalqilya,84,
+Ramallah,Nablus,51,
+Ramallah,Lydda,45.9,
+Jericho,Nablus,44.4,
+Jericho,Ramallah,24.8,
+Tal Alrabeea,Ramla,22.0,
+Jerusalem,Lydda,49.3,
+Tal Alrabeea,Bethlehem,76.9,
+Tal Alrabeea,Asdood,39.7
+Jerusalem,Ramla,46.8,
+Jerusalem,Ramallah,21.1,
+Jerusalem,Jericho,25.6,
+Bethlehem,Jericho,30.3,
+Bethlehem,Jerusalem,9,
+Bethlehem,Asdood,86.1,
+Bethlehem,Gaza,73.2,
+Bethlehem,Khan Yunis,94,
+Bethlehem,Rafah,102,
+Bethlehem,Almajdal,79.8,
+Hebron,Bethlehem,21.5,
+Hebron,Asdood,51.8,
+Ramla,Lydda,3.09,
+Lydda,Mulabas,16.01,
+Mulabas,Tal Alrabeea,8.52,
+Mulabas,Alharam,10.04,
+Mulabas,Qalqilya,12.79,
+Mulabas,Salfeet,27.3,
+Mulabas,Om Khalid,27.37,
+Mulabas,Al-Khadera,38.78,
+Mulabas,Tulkarm,28.82,
+Alnserat,Gaza,8.7,
+Alnserat,Deir al-Balah,5.30,
+Alnserat,Dora,60.48,
+Alnserat,Yatta,66.12,
+Alnserat,Hebron,67.65,
+Alnserat,Al-Daheriya,55.45,
+Al-Daheriya,BeerSheeba,24.46,
+Al-Daheriya,Alhazeel,21.08,
+Halhol,Bethlehem,17,
+Afula,Bisan,23.27,
+Afula,Tabria,30.75,
+Afula,Nazereth,10.08,
+Afula,Janin,16.28,
+Afula,Eiqaba,31.53,
+Afula,Om Alfahem,16.71,
+Eiqaba,Janin,15.38,
+Eiqaba,Tubas,2.06,
+Qabatia,Tulkarm,26.14,
+Qabatia,Janin,6.24,
+Qabatia,Nablus,20.81,
+Qabatia,Al-Khadera,34.0,
+Qabatia,Om Alfahem,17.04,
+Tulkarm,Alharam,25.10,
+Qalqilya,Salfeet,22.47,
+Salfeet,Nablus,17.29,
+Birzeit,Salfeet,17.48,
+Birzeit,Nablus,28.20,
+Birzeit,Ramallah,7.97,
+Ramallah,Al Birah,1.93
+Bitonia,Ramallah,3.60,
+Al Birah,Jericho,23.38,
+Jericho,Issawiya,21.57,
+Issawiya,Bethlehem,11.02,
+Issawiya,Jerusalem,4.22,
+Bitonia,Jerusalem,14.12,
+Jerusalem,Beit Jala,6.48,
+Jerusalem,Beit shams,21.50,
+Beit Jala,Halhol,17.17,
+Halhol,Hebron,5.38,
+Hebron,Dora,7.76,
+Dora,Yatta,8.96,
+Yatta,Al-Daheriya,11.54,
+Halhol,Alhazeel,38.91,
+Alhazeel,BeerSheeba,16.47,
+Alhazeel,Khan Yunis,43.13,
+Alhazeel,Alnserat,34.83,
+Alhazeel,Gaza,29.68,
+Alhazeel,Al falooja,55.05,
+Al falooja,Beit Jala,2.99,
+Al falooja,Beit shams,20.54,
+Beit shams,Asdood,32.03,
+Beit shams,Almajdal,42.76,
+Beit shams,Ramla,22.53,
+Al-Khadera,Om Alfahem,23.37
+Ako,Tabria,44.61
+Ako,Nazereth,33.21
+Safad,Tabria,19.0
+Safad,Nazereth,34.45
+Haifa,Afula,34.57
+Om Alfahem,Haifa,34.23
+Om Alfahem,Janin,14.77
+Tulkarm,Om Khalid,16.09
+Om Khalid,Alharam,18.34
+Bethlehem,Beit Jala,1.91
+Al falooja,Almajdal,54.83
+Tubas,Janin,17.49
+Tubas,Nablus,14.91
+Tubas,Qabatia,12.99
